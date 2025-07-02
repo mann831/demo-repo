@@ -1,0 +1,2 @@
+This is a sample text file for testing the Express file server.
+You can add more files to this directory to test the /files endpoint.
